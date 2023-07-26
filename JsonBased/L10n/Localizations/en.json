@@ -1,0 +1,7 @@
+{
+  "NotFound": "Not found",
+  "InvalidRequest": "Invalid request",
+  "WorkplaceType": {
+    "NotFound": "Cannot be deleted. Used in {0} {1} workplaces"
+  }
+}
